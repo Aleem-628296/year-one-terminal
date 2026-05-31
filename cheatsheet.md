@@ -1,4 +1,4 @@
-==========================================
+text ==========================================
 ALEEM'S TERMINAL CHEAT SHEET - WEEK 1
 ==========================================
 
@@ -134,3 +134,4 @@ cal                     Show a calendar
 Last updated: May 2026
 Week 1 complete. Week 2: Git & Version Control.
 ==========================================
+text
