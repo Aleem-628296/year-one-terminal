@@ -1,0 +1,14 @@
+# Books (too large, not my code)
+alice.txt
+pride.txt
+romeoandjulliet.txt
+
+# Temporary files
+*.save
+
+# Output files from scripts
+output.txt
+
+# Systerm files 
+.DS_Store
+Thumbs.db

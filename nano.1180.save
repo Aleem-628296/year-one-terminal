@@ -1,6 +1,0 @@
-pwd "print working directory" - shows where you are right now
-cd ~ "Change directory" to home (~ means /home/aleem)
-cd .. go up one level (back to parent folder)
-cd folder Enter a folder
-mkdir folder "Make directory" create a new folder
-mkdir -p a/b/c Create nested folders all at once(-p = create parents too)
