@@ -39,4 +39,4 @@ I'm following a structured roadmap to become a backend software engineer who und
 ---
 
 *Built by Aleem, May 2026*
-*Starting from zero. BUilding everyday*
+*Starting from zero. Building everyday*
